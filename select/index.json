@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "慕情",
+  "base_artist": "中島みゆき",
+  "createdAt": "2025-12-02T18:22:06.437362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Remember from「慕情」",
+      "artist": "Yoko Hatanaka",
+      "has_synced": false,
+      "path": "select/01_Remember_from「慕情」_Yoko_Hatanaka.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "慕情",
+      "artist": "Kentaro Haneda",
+      "has_synced": false,
+      "path": "select/02_慕情_Kentaro_Haneda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "慕情",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_慕情_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "慕情",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_慕情_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夕凪、慕情",
+      "artist": "碧海祐人",
+      "has_synced": false,
+      "path": "select/05_夕凪、慕情_碧海祐人.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "慕情 [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/06_慕情_[2024_Remaster]_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "慕情",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/07_慕情_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "慕情",
+      "artist": "MISORA HIBARI",
+      "has_synced": false,
+      "path": "select/08_慕情_MISORA_HIBARI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "慕情",
+      "artist": "中島 みゆき",
+      "has_synced": false,
+      "path": "select/pl_01_慕情_中島_みゆき.txt"
+    }
+  ]
+}
